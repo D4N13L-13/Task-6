@@ -1,6 +1,3 @@
-Here's a simple template for a Django README file for your GitHub repository:
-
-
 # Django Project
 
 [![Django Version](https://img.shields.io/badge/Django-4.x-blue)](https://www.djangoproject.com/)
